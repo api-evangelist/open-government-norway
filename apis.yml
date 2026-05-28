@@ -1,0 +1,32 @@
+aid: open-government-norway
+name: Open Government, Norway
+description: "Norwegian Government Open Data"
+url: https://data.norge.no/dataservices
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Government"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Government
+  - Public APIs
+apis:
+  - name: Open Government, Norway
+    description: "Norwegian Government Open Data"
+    humanURL: https://data.norge.no/dataservices
+    baseURL: https://data.norge.no/dataservices
+    tags:
+      - Government
+    properties:
+      - type: Documentation
+        url: https://data.norge.no/dataservices
+common:
+  - type: Website
+    url: https://data.norge.no/dataservices
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
