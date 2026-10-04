@@ -39,7 +39,6 @@ apis:
   - name: Open Government, Norway
     description: "Norwegian Government Open Data"
     humanURL: https://data.norge.no/dataservices
-    baseURL: https://data.norge.no/dataservices
     tags:
       - Government
     properties:
